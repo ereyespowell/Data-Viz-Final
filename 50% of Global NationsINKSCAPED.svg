@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    width="203.83501mm"
-   height="186.83501mm"
+   height="192.83501mm"
    version="1.1"
    id="svg4427"
    sodipodi:docname="50% of Global NationsINKSCAPED.svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.75142094"
-     inkscape:cx="402.57063"
-     inkscape:cy="310.0792"
+     inkscape:zoom="0.87028043"
+     inkscape:cx="315.41557"
+     inkscape:cy="337.82214"
      inkscape:window-width="1179"
      inkscape:window-height="833"
      inkscape:window-x="0"
@@ -789,7 +789,8 @@
     <g
        clip-path="url(#clipPath1)"
        id="g96"
-       style="fill:#2b0000">
+       style="fill:#2b0000"
+       transform="matrix(1.9745488,0,0,1.5958518,-136.08077,-364.28892)">
       <g
          fill="none"
          stroke="#666666"
@@ -822,7 +823,8 @@
     <g
        clip-path="url(#clipPath1)"
        id="g98"
-       style="fill:#2b0000">
+       style="fill:#2b0000"
+       transform="matrix(1.9032893,0,0,1.3575111,-125.26777,-193.19006)">
       <g
          fill="none"
          stroke="#666666"
@@ -855,7 +857,8 @@
     <g
        clip-path="url(#clipPath1)"
        id="g100"
-       style="fill:#2b0000">
+       style="fill:#2b0000"
+       transform="matrix(2.0963674,0,0,1.351306,-152.21078,-163.13771)">
       <g
          fill="none"
          stroke="#666666"
@@ -888,7 +891,8 @@
     <g
        clip-path="url(#clipPath1)"
        id="g102"
-       style="fill:#2b0000">
+       style="fill:#2b0000"
+       transform="matrix(1.8649841,0,0,1.4786324,-119.7833,-185.42706)">
       <g
          fill="none"
          stroke="#666666"
@@ -921,7 +925,8 @@
     <g
        clip-path="url(#clipPath1)"
        id="g104"
-       style="fill:#2b0000">
+       style="fill:#2b0000"
+       transform="matrix(1.90236,0,0,1.3577541,-125.27107,-111.09244)">
       <g
          fill="none"
          stroke="#666666"
@@ -954,7 +959,8 @@
     <g
        clip-path="url(#clipPath1)"
        id="g106"
-       style="fill:#2b0000">
+       style="fill:#2b0000"
+       transform="matrix(1.724871,0,0,1.3515406,-100.597,-82.040797)">
       <g
          fill="none"
          stroke="#666666"
@@ -987,7 +993,8 @@
     <g
        clip-path="url(#clipPath1)"
        id="g108"
-       style="fill:#2b0000">
+       style="fill:#2b0000"
+       transform="matrix(1.7393837,0,0,1.3636879,-102.6977,-56.924964)">
       <g
          fill="none"
          stroke="#666666"
@@ -1020,7 +1027,8 @@
     <g
        clip-path="url(#clipPath1)"
        id="g110"
-       style="fill:#2b0000">
+       style="fill:#2b0000"
+       transform="matrix(1.9079647,0,0,1.3515406,-126.03851,-28.255079)">
       <g
          fill="none"
          stroke="#666666"
@@ -43750,7 +43758,8 @@
        font-size="20px"
        font-weight="400"
        font-style="normal"
-       id="g4425">
+       id="g4425"
+       transform="translate(-47.111251)">
       <text
          fill="#000000"
          fill-opacity="1"
@@ -43762,7 +43771,9 @@
          font-size="20px"
          font-weight="400"
          font-style="normal"
-         id="text4424">50% of Global Nations Cluster Within Just 1.2 Points: The Index</text>
+         id="text4424"><tspan
+           style="font-weight:bold"
+           id="tspan2">50% of Global Nations Cluster Within Just 1.2 Points: The Index</tspan></text>
     </g>
     <g
        fill="none"
@@ -43775,7 +43786,8 @@
        font-size="20px"
        font-weight="400"
        font-style="normal"
-       id="g4426">
+       id="g4426"
+       transform="translate(-47.111251,1.1490549)">
       <text
          fill="#000000"
          fill-opacity="1"
@@ -43787,7 +43799,9 @@
          font-size="20px"
          font-weight="400"
          font-style="normal"
-         id="text4425">Lacks True Differentiation</text>
+         id="text4425"><tspan
+           style="font-weight:bold"
+           id="tspan1">Lacks True Differentiation</tspan></text>
     </g>
   </g>
   <metadata
