@@ -1,4 +1,4 @@
-#Process Writeup – Is Happiness Quantifiable?
+# Process Writeup – Is Happiness Quantifiable?
 By Judi Hernandez, Urunna Anyanwu, and Eliram Reyes-Powell
 
 ## Project Overview
